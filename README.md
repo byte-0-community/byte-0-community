@@ -41,10 +41,10 @@ Byte-o es una comunidad dedicada al aprendizaje y desarrollo de habilidades en s
 
 ## 🌐 Nuestras Redes
 
-[![Discord](https://img.shields.io/badge/Discord-Byteo-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/byteo)
-[![Twitter](https://img.shields.io/badge/Twitter-Byteo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ByteoHacking)
-[![GitHub](https://img.shields.io/badge/GitHub-Byteo-F05032?style=for-the-badge&logo=github)](https://github.com/Byteo)
-[![Website](https://img.shields.io/badge/Website-Byteo.com-14a1f0?style=for-the-badge&logo=dev.to)](https://byteo.com)
+[![Discord](https://img.shields.io/badge/Discord-Byteo-7289DA?style=for-the-badge&logo=discord)]()
+[![Twitter](https://img.shields.io/badge/Twitter-Byteo-1DA1F2?style=for-the-badge&logo=twitter)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Byteo-F05032?style=for-the-badge&logo=github)]()
+[![Website](https://img.shields.io/badge/Website-Byteo.com-14a1f0?style=for-the-badge&logo=dev.to)]()
 
 ## 📝 Licencia
 
@@ -57,10 +57,3 @@ A todos los miembros que contribuyen con su tiempo y conocimientos para hacer de
 > **_"La seguridad no es un destino, es un viaje continuo"_**
 
 ---
-
-## 📊 Estadísticas del Proyecto
-
-[![Contribuidores](https://img.shields.io/github/contributors/Byteo/community?color=blue&style=for-the-badge)](https://github.com/Byteo/community/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/Byteo/community?color=yellow&style=for-the-badge)](https://github.com/Byteo/community/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Byteo/community?color=green&style=for-the-badge)](https://github.com/Byteo/community/pulls)
-[![Stars](https://img.shields.io/github/stars/Byteo/community?color=orange&style=for-the-badge)](https://github.com/Byteo/community/stargazers)
