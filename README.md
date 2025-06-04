@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/ByteoHacking?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)]()
 [![GitHub](https://img.shields.io/github/stars/Byteo/community?color=F05032&label=GitHub&logo=github&style=for-the-badge)]()
 
-![](./assets/byteo-logo.png)
+![](./assets/byteo-logo.jpg)
 
 > **Descubre el arte del hacking ético y la seguridad informática**
 
