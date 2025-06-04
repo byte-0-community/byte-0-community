@@ -1,7 +1,7 @@
 # 🛡️ Byte-o - Comunidad de Ciberseguridad
 
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&style=for-the-badge)]()
-[![Twitter](https://img.shields.io/twitter/follow/ByteoHacking?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)]()
+[![Twitter](https://img.shields.io/twitter/follow/ByteoHacking?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)](https://discord.gg/7DPwWZGQ)
 [![GitHub](https://img.shields.io/github/stars/Byteo/community?color=F05032&label=GitHub&logo=github&style=for-the-badge)]()
 
 ![](./assets/byteo-logo.jpg)
