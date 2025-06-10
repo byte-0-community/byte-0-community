@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/7DPwWZGQ)
 [![GitHub](https://img.shields.io/github/stars/Byteo/community?color=F05032&label=GitHub&logo=github&style=for-the-badge)]()
 
-![](./assets/byteo-logo.jpg)
+![](./assets/byte_0.jpg)
 
 > **Descubre el arte del hacking ético y la seguridad informática**
 
